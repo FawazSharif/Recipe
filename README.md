@@ -21,5 +21,5 @@ Tap on your APK file again
 
 A warning will pop up “Do you want to install this application?” Tap “Next” and then “Install.”
 
-You’ll get a confirmation message and the will be added to the device.
+You’ll get a confirmation message and the application will be added to the device.
 
